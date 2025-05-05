@@ -1,2 +1,2 @@
-./states
-./contracts/artifacts/*
+states/**
+contracts/artifacts/**
